@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1420418797 source:d:\documents and settings\renata linda\desktop\rick\main.cpp
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	"computer.h"
+
+1420410632 d:\documents and settings\renata linda\desktop\rick\teclado.h
+	<allegro.h>
+
+1420410194 source:d:\documents and settings\renata linda\desktop\rick\teclado.cpp
+	"teclado.h"
+
+1420232836 source:d:\documents and settings\renata linda\desktop\rick\teclado.c
+	"teclado.h"
+
+1420415847 source:d:\documents and settings\renata linda\desktop\rick\computer.cpp
+	"computer.h"
+
+1420415366 d:\documents and settings\renata linda\desktop\rick\computer.h
+
+1420415848 source:c:\users\ti\desktop\rick\rick\computer.cpp
+	"computer.h"
+
+1420415368 c:\users\ti\desktop\rick\rick\computer.h
+
+1420418952 source:c:\users\ti\desktop\rick\rick\main.cpp
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	"computer.h"
+
